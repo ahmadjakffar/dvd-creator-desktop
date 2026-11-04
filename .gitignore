@@ -1,0 +1,6 @@
+.vscode/
+*.log
+.idea/
+Thumbs.db
+*.swo
+*.swp
